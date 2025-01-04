@@ -1,0 +1,10 @@
+ .pass{
+    position: relative;
+}
+.eye,.eyeoff{
+    font-size: 20px;
+    position: absolute;
+    top: 16%;
+    right: 620px;
+ 
+} 
