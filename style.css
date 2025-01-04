@@ -1,4 +1,8 @@
- .pass{
+h1{
+    font-size: 20px;
+}
+
+.pass{
     position: relative;
 }
 .eye,.eyeoff{
